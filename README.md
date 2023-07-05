@@ -1,7 +1,7 @@
 # IndoMTL_EmoBank
 
 ## Overview
-This repository contains IndoMTL_EmoBank, an Indonesian version of [EmoBank](https://github.com/JULIELab/EmoBank/) with the sentences machine translated using the Microsoft Translator API and the VAD (Valence-Arousal-Dominance) values transferred from the original English-language dataset (specifically `emobank.csv`).
+This repository contains IndoMTL_EmoBank, an Indonesian version of [EmoBank](https://github.com/JULIELab/EmoBank/) with the sentences machine-translated using the Microsoft Translator API and the VAD (Valence-Arousal-Dominance) values transferred from the original English-language dataset (specifically from `emobank.csv`).
 
 *This dataset was originally constructed as part of the author's undergraduate final year project.*
 
